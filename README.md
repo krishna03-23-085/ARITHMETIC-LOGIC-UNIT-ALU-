@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTOSH  
 
-## Description of Tools, Platforms, and Technologies Used
+##Description of Tools, Platforms, and Technologies Used
 
 For completing the design and simulation of the Arithmetic Logic Unit (ALU), I used a combination of online simulation platforms and digital design tools that support Verilog HDL (Hardware Description Language). The main tool utilized was EDA Playground, an online web-based simulator, along with the Icarus Verilog simulation engine. These tools allowed me to design, test, and verify the ALU operations without requiring complex local installations. Below is a detailed explanation of each component and how it was used in the project.
 
@@ -27,3 +27,7 @@ Apart from EDA Playground, I also reviewed ModelSim and Quartus Prime tools, whi
 The ALU was tested with 8-bit input operands (A and B) and a 3-bit control input (ALU_Sel) to select different operations. The results were observed both in textual form and as waveform outputs. This process helped in understanding how logical and arithmetic functions are implemented in hardware at a structural level using Verilog.
 
 In summary, the primary tools used—EDA Playground and Icarus Verilog—provided a seamless, efficient, and beginner-friendly environment to design and simulate the ALU circuit. These tools offered all necessary functionalities to write Verilog code, execute simulations, view timing diagrams, and verify results without any software installation. This approach made the project execution faster, more accessible, and ideal for demonstrating fundamental digital design concepts in a practical and visual way.
+
+#Output
+
+<img width="1226" height="762" alt="Image" src="https://github.com/user-attachments/assets/1cb82d65-c86c-4abc-9e98-721819c128cc" />
