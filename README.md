@@ -30,4 +30,4 @@ In summary, the primary tools used—EDA Playground and Icarus Verilog—provide
 
 #Output
 
-<img width="1226" height="762" alt="Image" src="https://github.com/user-attachments/assets/1cb82d65-c86c-4abc-9e98-721819c128cc" />
+<img width="1440" height="855" alt="Image" src="https://github.com/user-attachments/assets/356d2648-c12b-4c41-9954-000c518b32da" />
